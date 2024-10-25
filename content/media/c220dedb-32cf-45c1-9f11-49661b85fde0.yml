@@ -1,0 +1,36 @@
+_meta:
+  version: '1.0'
+  entity_type: media
+  uuid: c220dedb-32cf-45c1-9f11-49661b85fde0
+  bundle: image
+  default_langcode: en
+  depends:
+    3639741c-4415-49f4-a6ca-8224c7ef26f4: file
+default:
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  name:
+    -
+      value: van.jpg
+  created:
+    -
+      value: 1729868132
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_media_image:
+    -
+      entity: 3639741c-4415-49f4-a6ca-8224c7ef26f4
+      alt: van
+      title: ''
+      width: 800
+      height: 500

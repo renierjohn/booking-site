@@ -1,0 +1,47 @@
+_meta:
+  version: '1.0'
+  entity_type: bm
+  uuid: a1fa34c6-08e0-4fe5-9e53-fcea1714e014
+  bundle: cars
+  default_langcode: en
+  depends:
+    c220dedb-32cf-45c1-9f11-49661b85fde0: media
+    c0e7565a-a00f-4775-9e11-0aff7fa8a698: taxonomy_term
+    53049103-c1ea-489c-9062-8b56e9cb0e88: taxonomy_term
+default:
+  label:
+    -
+      value: 'HiAce 2024'
+  status:
+    -
+      value: true
+  description:
+    -
+      value: '<p>The Toyota <strong>Hiace</strong> combines comfort and power. Find a new cargo or commuter vehicle at a Toyota dealership near you, or view different <strong>Hiace</strong> variants online.</p>'
+      format: basic_html
+  uid:
+    -
+      target_id: 1
+  created:
+    -
+      value: 1729868130
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_bm_contact:
+    -
+      value: facebook.com
+  field_bm_image:
+    -
+      entity: c220dedb-32cf-45c1-9f11-49661b85fde0
+  field_bm_place:
+    -
+      entity: c0e7565a-a00f-4775-9e11-0aff7fa8a698
+  field_bm_property_type:
+    -
+      entity: 53049103-c1ea-489c-9062-8b56e9cb0e88

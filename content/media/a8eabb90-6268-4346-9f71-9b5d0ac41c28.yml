@@ -1,0 +1,36 @@
+_meta:
+  version: '1.0'
+  entity_type: media
+  uuid: a8eabb90-6268-4346-9f71-9b5d0ac41c28
+  bundle: image
+  default_langcode: en
+  depends:
+    9aeae491-97b8-4606-b778-0d6f816abdda: file
+default:
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  name:
+    -
+      value: mini_suv.jpg
+  created:
+    -
+      value: 1729868483
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_media_image:
+    -
+      entity: 9aeae491-97b8-4606-b778-0d6f816abdda
+      alt: minisuv
+      title: ''
+      width: 900
+      height: 381

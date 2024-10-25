@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: a7701058-0547-4cb9-9cb9-04df328f0863
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: motero.jpeg
+  uri:
+    -
+      value: 'public://2024-10/motero_0.jpeg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 6199
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1729866647

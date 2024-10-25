@@ -1,0 +1,47 @@
+_meta:
+  version: '1.0'
+  entity_type: bm
+  uuid: 8adf73d5-fcaf-4eba-a752-aa6a54f08b61
+  bundle: cars
+  default_langcode: en
+  depends:
+    3d730ecc-b589-4724-aef1-bb0138c7d88b: media
+    fd2f772f-040d-41c5-98c9-5abf4a943abb: taxonomy_term
+    379dc742-6cf6-45ab-9ec5-d618099ce68e: taxonomy_term
+default:
+  label:
+    -
+      value: 'Hilux 2024'
+  status:
+    -
+      value: true
+  description:
+    -
+      value: '<h2><strong>Toyota Hilux Overview</strong></h2><p>The Toyota Hilux, a pickup whose name is renowned all over the world for being one of the hardiest and reliable workhorses for any task. From 1968 until today, the Hilux has garnered much praise thanks to its reliability. The Philippine iteration comes with improved looks over the previous generation, as well as more powerful engine options. The midsize is one of the, if not the best-selling pickup in the country today.&nbsp;</p>'
+      format: basic_html
+  uid:
+    -
+      target_id: 1
+  created:
+    -
+      value: 1729867963
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_bm_contact:
+    -
+      value: facebook.com
+  field_bm_image:
+    -
+      entity: 3d730ecc-b589-4724-aef1-bb0138c7d88b
+  field_bm_place:
+    -
+      entity: fd2f772f-040d-41c5-98c9-5abf4a943abb
+  field_bm_property_type:
+    -
+      entity: 379dc742-6cf6-45ab-9ec5-d618099ce68e

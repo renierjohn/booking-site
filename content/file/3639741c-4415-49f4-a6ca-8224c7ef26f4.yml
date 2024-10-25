@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 3639741c-4415-49f4-a6ca-8224c7ef26f4
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: van.jpg
+  uri:
+    -
+      value: 'public://2024-10/van.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 83975
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1729868132

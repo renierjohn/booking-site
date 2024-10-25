@@ -1,0 +1,17 @@
+name: 'Booking Site'
+description: 'A recipe tailored to best practices for kickstarting a new Drupal 10 project.'
+type: 'Site'
+
+install:
+  - admin_toolbar
+  - admin_toolbar_search
+  - bm
+  - material_base
+
+config:
+  import:
+    bm: '*'
+  actions:
+    system.theme:
+      simple_config_update:
+        default: material_base

@@ -1,0 +1,36 @@
+_meta:
+  version: '1.0'
+  entity_type: media
+  uuid: d3cad39d-d31b-4fb9-8003-cc82cbf38e24
+  bundle: image
+  default_langcode: en
+  depends:
+    a7701058-0547-4cb9-9cb9-04df328f0863: file
+default:
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  name:
+    -
+      value: motero.jpeg
+  created:
+    -
+      value: 1729866647
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_media_image:
+    -
+      entity: a7701058-0547-4cb9-9cb9-04df328f0863
+      alt: montero
+      title: ''
+      width: 225
+      height: 225

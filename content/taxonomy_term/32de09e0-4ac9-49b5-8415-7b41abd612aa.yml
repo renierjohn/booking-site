@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: taxonomy_term
+  uuid: 32de09e0-4ac9-49b5-8415-7b41abd612aa
+  bundle: bm_place
+  default_langcode: en
+default:
+  status:
+    -
+      value: true
+  name:
+    -
+      value: Abra
+  weight:
+    -
+      value: 0
+  parent:
+    -
+      target_id: 0
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 1

@@ -1,0 +1,47 @@
+_meta:
+  version: '1.0'
+  entity_type: bm
+  uuid: 11a11136-a0cc-49df-abfe-38e9c49ce05f
+  bundle: cars
+  default_langcode: en
+  depends:
+    faba81f1-3066-4765-93d0-f69fa1075f7d: media
+    fbf35ac4-f33a-48fc-9060-8eaf9a7ac00b: taxonomy_term
+    ee716f62-a4ff-4ff0-acb2-e888ef91470c: taxonomy_term
+default:
+  label:
+    -
+      value: 'Toyota VIOS'
+  status:
+    -
+      value: true
+  description:
+    -
+      value: '<p>Explore <strong>Toyota</strong> Variants — Compact, versatile, and reliable—you can count on the <strong>Toyota Vios</strong> for a comfortable ride. at affordable prices. Explore the available variants to find the one that fits your needs!</p>'
+      format: basic_html
+  uid:
+    -
+      target_id: 1
+  created:
+    -
+      value: 1729868261
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_bm_contact:
+    -
+      value: facebook.com
+  field_bm_image:
+    -
+      entity: faba81f1-3066-4765-93d0-f69fa1075f7d
+  field_bm_place:
+    -
+      entity: fbf35ac4-f33a-48fc-9060-8eaf9a7ac00b
+  field_bm_property_type:
+    -
+      entity: ee716f62-a4ff-4ff0-acb2-e888ef91470c

@@ -1,0 +1,36 @@
+_meta:
+  version: '1.0'
+  entity_type: media
+  uuid: faba81f1-3066-4765-93d0-f69fa1075f7d
+  bundle: image
+  default_langcode: en
+  depends:
+    a5066d6d-24e8-4897-bbb8-380fb417662d: file
+default:
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  name:
+    -
+      value: sedan.jpeg
+  created:
+    -
+      value: 1729868282
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_media_image:
+    -
+      entity: a5066d6d-24e8-4897-bbb8-380fb417662d
+      alt: sedan
+      title: ''
+      width: 261
+      height: 193

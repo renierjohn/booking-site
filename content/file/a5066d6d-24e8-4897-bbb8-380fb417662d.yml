@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: a5066d6d-24e8-4897-bbb8-380fb417662d
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: sedan.jpeg
+  uri:
+    -
+      value: 'public://2024-10/sedan.jpeg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 12904
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1729868282

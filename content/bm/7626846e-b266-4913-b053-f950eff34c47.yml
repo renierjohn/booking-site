@@ -1,0 +1,47 @@
+_meta:
+  version: '1.0'
+  entity_type: bm
+  uuid: 7626846e-b266-4913-b053-f950eff34c47
+  bundle: cars
+  default_langcode: en
+  depends:
+    d3cad39d-d31b-4fb9-8003-cc82cbf38e24: media
+    d6bd21b3-8575-46b7-9374-87c2e7d25b2d: taxonomy_term
+    7c596336-d369-45ef-9591-f28dc5c565e3: taxonomy_term
+default:
+  label:
+    -
+      value: Monetro
+  status:
+    -
+      value: true
+  description:
+    -
+      value: '<p>Recognizing stories of people in their moments of epic experiences, the ''Live Legendary'' campaign exemplifies the bold qualities of the all-new Sequoia," said Lisa Materazzo, group vice president, Toyota Marketing, Toyota Motor North America.&nbsp;"The all-new Sequoia is the total package for any adventure, whether driving across country, hauling gear or traveling with your family.</p>'
+      format: basic_html
+  uid:
+    -
+      target_id: 1
+  created:
+    -
+      value: 1729866639
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_bm_contact:
+    -
+      value: facebook.com
+  field_bm_image:
+    -
+      entity: d3cad39d-d31b-4fb9-8003-cc82cbf38e24
+  field_bm_place:
+    -
+      entity: d6bd21b3-8575-46b7-9374-87c2e7d25b2d
+  field_bm_property_type:
+    -
+      entity: 7c596336-d369-45ef-9591-f28dc5c565e3

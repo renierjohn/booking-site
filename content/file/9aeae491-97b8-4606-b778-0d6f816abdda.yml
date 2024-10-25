@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 9aeae491-97b8-4606-b778-0d6f816abdda
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: mini_suv.jpg
+  uri:
+    -
+      value: 'public://2024-10/mini_suv.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 91608
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1729868483

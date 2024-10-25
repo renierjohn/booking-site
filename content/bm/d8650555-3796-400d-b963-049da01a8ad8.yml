@@ -1,0 +1,47 @@
+_meta:
+  version: '1.0'
+  entity_type: bm
+  uuid: d8650555-3796-400d-b963-049da01a8ad8
+  bundle: cars
+  default_langcode: en
+  depends:
+    a8eabb90-6268-4346-9f71-9b5d0ac41c28: media
+    6fe9e604-6217-4f6a-98a1-89915d8a0422: taxonomy_term
+    fe92891f-efb9-4428-916d-09e821468970: taxonomy_term
+default:
+  label:
+    -
+      value: 'Toyota Raiz'
+  status:
+    -
+      value: true
+  description:
+    -
+      value: '<h3><a href="https://www.toyota.com/crossovers/">Toyota Crossovers &amp; Compact SUVs</a></h3><p>These <strong>small SUVs</strong> offer great safety features and EPA-estimated mileage ratings, perfect for city streets and beyond.</p>'
+      format: basic_html
+  uid:
+    -
+      target_id: 1
+  created:
+    -
+      value: 1729868477
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_bm_contact:
+    -
+      value: facebook.com
+  field_bm_image:
+    -
+      entity: a8eabb90-6268-4346-9f71-9b5d0ac41c28
+  field_bm_place:
+    -
+      entity: 6fe9e604-6217-4f6a-98a1-89915d8a0422
+  field_bm_property_type:
+    -
+      entity: fe92891f-efb9-4428-916d-09e821468970
