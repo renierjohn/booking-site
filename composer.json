@@ -19,6 +19,7 @@
     ],
     "installer-paths": {
         "web/libraries/{$name}": [
+            "type:drupal-library",
             "type:bower-asset",
             "type:npm-asset"
         ]
