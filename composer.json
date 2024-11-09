@@ -11,6 +11,19 @@
             "role": "Maintainer"
         }
     ],
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.org"
+        }
+    ],
+    "installer-paths": {
+        "web/libraries/{$name}": [
+            "type:bower-asset",
+            "type:npm-asset"
+        ]
+    },
+    "installer-types": ["bower-asset", "npm-asset"],
     "require": {
         "drupal/bm":"1.0.x-dev@dev",
         "drupal/select2":"^1.15",
