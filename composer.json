@@ -12,7 +12,8 @@
         }
     ],
     "require": {
-        "drupal/admin_toolbar": "^3.5",
-        "drupal/bm":"1.0.x-dev@dev"
+        "drupal/bm":"1.0.x-dev@dev",
+        "drupal/select2":"^1.15",
+        "drupal/field_group": "^3.4"
     }
 }

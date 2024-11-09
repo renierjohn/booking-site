@@ -3,15 +3,18 @@ description: 'A recipe tailored to best practices for kickstarting a new Drupal 
 type: 'Site'
 
 install:
-  - admin_toolbar
-  - admin_toolbar_search
   - bm
-  - material_base
+  - select2
+  - field_group
 
 config:
   import:
     bm: '*'
   actions:
-    system.theme:
+    gin.settings:
       simple_config_update:
-        default: material_base
+        preset_accent_color: light_blue
+        preset_focus_color: green
+        classic_toolbar: classic
+        layout_density: medium
+        sticky_action_buttons: false
